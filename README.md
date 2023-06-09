@@ -1,13 +1,12 @@
 👋 Hi, I’m @biadeneedo
 
 ## WHO I AM <br />
-Data Scientist consultant with knowledge in Machine Learning (R e Python), Statistical Modelling , Linear/Nonlinear Optimization Techniques, ETL & Data Automation, FinTech & Quantitative Finance, Capital Markets Analysis, Portfolio Risk Management <br />
-Preferred sectors: FSI (task: portfolio optimization and quantitative analysis of financial markets), Pharmaceutical (task: research & development of new products using ML techniques) <br />
-Best Publication: Master thesis in Reinforcement Learning for Portfolio Creation and Stock Prediction ”. Evaluation of multiple NN and Reinforcement Learning Systems in order to take buy sell and sit in actions over portfolios in a daily trading context <br />
+Senior Data Scientist with knowledge in machine Learning (R e python), and statistical modelling. Expertise in quantitative applications for financial data such as portfolio optimization, time series analysis, market anomaly detection, NLP and automized solutions, product clustering and pricing, market research
+
 📫 How to reach me: www.linkedin.com/in/edoardo-biadene-743564108
 
 ## WHAT YOU CAN FIND IN MY REPOSITORY <br />
-In my repo I try to focus on project that I found useful and interesting from a data scientist prospective. I love working with time series so the majority of the work probably deal with it. <br />
+In my repos I focus on module and enable quantitative and financial strategies for hedging applications. There are also decicated repos on cross-industry business cases of AI&ML <br />
 
 Enjoy the Repo!
 
